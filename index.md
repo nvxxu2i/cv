@@ -200,5 +200,9 @@ __Junior Developer__, Budapest
 __B.Sc. in Software Engineering__, Budapest University of Technology and Economics 
 
 ## Tidbits
-- Personal best lifts: 130 kg squat, 100 kg bench press, 170 kg deadlift
-- Favourite editor: LunarVim
+### Personal best lifts
+
+130 kg squat, 100 kg bench press, 170 kg deadlift
+
+### Favourite text editor and IDE
+LunarVim
