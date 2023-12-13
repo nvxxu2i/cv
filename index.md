@@ -114,7 +114,7 @@ __Rust Engineer__, Milan, Italy (remote)
 ### Commsignia
 
 `April 2021 - April 2022`
-__DevOps Engineer__, Budapest, Hungary
+__DevOps Engineer__, Budapest
 
 - Mission: there was no dedicated owner of the engineering supporting systems
   (e.g. GitLab, archives, object storages), and I wanted to fill this gap and
@@ -128,12 +128,12 @@ __DevOps Engineer__, Budapest, Hungary
 - _Keywords_: DevOps, Gitlab, CI, ccache, S3, MinIO
 
 `August 2020 - April 2021`
-__Software Architect__, Budapest, Hungary
+__Software Architect__, Budapest
 
 - \[see above, in the highlighted section\]
 
 `March 2020 - July 2020`
-__Senior Embedded Developer__, Budapest, Hungary
+__Senior Embedded Developer__, Budapest
 
 - This part was onboarding to the Vehicle-to-anything (V2x) industry
   and returning to embedded C development.
@@ -144,7 +144,7 @@ __Senior Embedded Developer__, Budapest, Hungary
 ### IBM Budapest Lab
 
 `September 2018 - March 2020`
-__Cloud Service Developer (band 7)__, Budapest, Hungary
+__Cloud Service Developer (band 7)__, Budapest
 - Mission: we have developed a service which uses IBM Watson to create
   transcriptions to a live video stream and enrich uploaded videos.
 - This service was written mainly in Go(lang), and our team operated it in
@@ -166,9 +166,9 @@ __Cloud Service Developer (band 7)__, Budapest, Hungary
   too late. The product was eventually switched to maintanence-only mode.
 - _Keywords_: Go(lang), Kubernetes, DevOps, Docker, Travis CI, Terraform
 
-### Balabit (later aquired by One Identity)
+### Balabit
 `August 2016 - September 2018`
-__Platform Engineer__, Budapest, Hungary
+__Platform Engineer__, Budapest
 
 - Mission: Balabit had two appliances as a product, and a new team has formed
   to unify the underlying operating systems. We became the owner and developer
@@ -181,17 +181,17 @@ __Platform Engineer__, Budapest, Hungary
   distribution.
 
 `February 2015 - August 2016`
-__Software Engineer Trainee__, Budapest, Hungary
+__Software Engineer Trainee__, Budapest
 - Worked on syslog-ng, my first experience with async I/O in C.
 
 ### Nokia Networks
 `September 2014 - January 2015`
-__Research Assistant__, Budapest, Hungary
+__Research Assistant__, Budapest
 - Worked on pedestrian movement modelling for 5G network simulations.
 
 ### Sophos
 `July 2013 - September 2014`
-__Junior Developer__, Budapest, Hungary
+__Junior Developer__, Budapest
 - Worked on some e-mail filtering appliances written in Perl.
 
 ## Education
