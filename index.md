@@ -27,6 +27,7 @@ single hobby.
 ### Stealth-stage trading desk
 `March 2023 - present`
 __Founder__, London, United Kingdom
+
 - Back in 2018, Rust-related jobs were virtually non-existent, and I wanted to
   learn the language in a more practical project, and had some ideas of
   technical analysis, so a cryptocurrency market predictor was born.
@@ -47,6 +48,7 @@ __Founder__, London, United Kingdom
 ### Commsignia
 `August 2020 - April 2021`
 __Software Architect__, Budapest, Hungary
+
 - Mission: Commsignia launched a new remote command-and-control product for the
   deployed Road Side Units. This had to be delivered within six months as it
   has been sold to Hungarian Public Roads Ltd. The team was non-existent at
@@ -80,7 +82,8 @@ __Software Architect__, Budapest, Hungary
 ### Stealth-stage trading desk
 `March 2023 - present`
 __Founder__, London, United Kingdom
-\[see above, in the highlighted section\]
+
+- \[see above, in the highlighted section\]
 
 ### Radix DLT
 
@@ -100,6 +103,7 @@ __Senior Rust Engineer__, London, United Kingdom
 
 `May 2022 - August 2022`
 __Rust Engineer__, Milan, Italy (remote)
+
 - Mission: spin up an insurance selling platform in Spain
 - The main challenges were integrating with third-party data providers, as well
   as a forced usage of a custom flavour of CQRS/event sourcing.
@@ -125,7 +129,8 @@ __DevOps Engineer__, Budapest, Hungary
 
 `August 2020 - April 2021`
 __Software Architect__, Budapest, Hungary
-\[see above, in the highlighted section\]
+
+- \[see above, in the highlighted section\]
 
 `March 2020 - July 2020`
 __Senior Embedded Developer__, Budapest, Hungary
