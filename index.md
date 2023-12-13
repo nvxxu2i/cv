@@ -3,7 +3,7 @@ layout: cv
 title: Adam Mozes's CV
 ---
 # Adam Mozes
-Senior Rust Engineer, Jack of all trades, Arbitrage finder, Amateur powerlifter / weightlifter
+Senior Rust Engineer, Jack of all trades, Arbitrage finder, Novice powerlifter / weightlifter
 
 <div id="webaddress">
 <a href="mailto:mozes.adam.istvan@proton.me">E-mail</a>
