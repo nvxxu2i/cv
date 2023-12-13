@@ -42,7 +42,7 @@ __Founder__, London, United Kingdom
   profitability, but at least it exposed me to various interesting technical
   challenges, and where I must carefully choose my moves as I have skin in the
   game.
-- _Keywords_: Rust, Arch Linux, systemd, REST, FIX, systemd, AWS, arbitrage,
+- _Keywords_: Rust, tokio, Arch Linux, REST, FIX, systemd, AWS, arbitrage,
   delta-neutral
 
 ### Commsignia
