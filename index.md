@@ -7,7 +7,7 @@ Senior Rust Engineer, Jack of all trades, Arbitrage finder, Novice powerlifter /
 
 <div id="webaddress">
 <a href="mailto:mozes.adam.istvan@proton.me">E-mail</a>
-| <a href="https://nvxxu2i.github.io/markdown-cv">CV (web)</a>
+| <a href="https://nvxxu2i.github.io/cv">CV (web)</a>
 | <a href="javascript:window.print()">CV (printed)</a>
 | <a href="https://linkedin.com/in/mozesadamistvan">LinkedIn</a>
 </div>
@@ -19,11 +19,12 @@ I usually thrive in high-impact roles, especially in the strategic ones, when
 different viewpoints have to be integrated in a single decision, and the
 mastery of trade-offs are required.
 
-My current interest and hobby is writing low-latency Rust code in the trading
+My current interest and hobby is writing **low-latency Rust** code in the trading
 space, which combines software development, operations, and investments in a
 single hobby.
 
-## Highlighted experiences
+## Experience
+
 ### Stealth-stage trading desk
 `March 2023 - present`
 __Founder__, London, United Kingdom
@@ -43,47 +44,7 @@ __Founder__, London, United Kingdom
   challenges, and where I must carefully choose my moves as I have skin in the
   game.
 - _Keywords_: Rust, tokio, Arch Linux, REST, FIX, systemd, AWS, arbitrage,
-  delta-neutral
-
-### Commsignia
-`August 2020 - April 2021`
-__Software Architect__, Budapest, Hungary
-
-- Mission: Commsignia launched a new remote command-and-control product for the
-  deployed Road Side Units. This had to be delivered within six months as it
-  has been sold to Hungarian Public Roads Ltd. The team was non-existent at
-  this point, and careful planning and execution were paramount.
-- I had no structured knowledge of how to design maintainable architecture, so
-  the first thing I did was to read through Robert C. Martin's: Clean
-  Architecture, and as suggested, I wanted to defer decisions as late as
-  possible to avoid painting ourselves into a corner.
-- Due to some external forces, we had to write the majority of the code in Java
-  (and I still have little hands-on experience in Java), so a Lead Developer
-  had to be recruited as my peer, who can execute and decide on the
-  implementation details.
-- I have created a control and a command plane and defined tens of modules with
-  their clear concerns and the expected interface between them as fast as
-  possible so that development can be started with some selected modules.
-- Due to the sensitive nature of this project, I had to integrate this product
-  into the _Hungarian Public Roads_ network, which included late-stage
-  debugging, as it even required being on-call.
-- Conclusion: This project was a success and brought significant revenue, and
-  despite the rapid development, the tech debt was kept on sustainable levels,
-  so this one-off project is a good foundation for an actual product.
-- However, it became pretty stressful to effectively defend the developer team
-  from external scope changes and unnecessary overload, which caused an
-  unresolved disagreement between the (now former) Product Owner and me and
-  made me resign from this team.
-- _Keywords_: Clean architecture, Architecture design, Java, Python, XML, XSLT,
-  Ubuntu, systemd, V2X
-
-## Experience
-
-### Stealth-stage trading desk
-`March 2023 - present`
-__Founder__, London, United Kingdom
-
-- \[see above, in the highlighted section\]
+  delta-neutral, HFT
 
 ### Radix DLT
 
@@ -130,7 +91,34 @@ __DevOps Engineer__, Budapest
 `August 2020 - April 2021`
 __Software Architect__, Budapest
 
-- \[see above, in the highlighted section\]
+- Mission: Commsignia launched a new remote command-and-control product for the
+  deployed Road Side Units. This had to be delivered within six months as it
+  has been sold to Hungarian Public Roads Ltd. The team was non-existent at
+  this point, and careful planning and execution were paramount.
+- I had no structured knowledge of how to design maintainable architecture, so
+  the first thing I did was to read through Robert C. Martin's: Clean
+  Architecture, and as suggested, I wanted to defer decisions as late as
+  possible to avoid painting ourselves into a corner.
+- Due to some external forces, we had to write the majority of the code in Java
+  (and I still have little hands-on experience in Java), so a Lead Developer
+  had to be recruited as my peer, who can execute and decide on the
+  implementation details.
+- I have created a control and a command plane and defined tens of modules with
+  their clear concerns and the expected interface between them as fast as
+  possible so that development can be started with some selected modules.
+- Due to the sensitive nature of this project, I had to integrate this product
+  into the _Hungarian Public Roads_ network, which included late-stage
+  debugging, as it even required being on-call.
+- Conclusion: This project was a success and brought significant revenue, and
+  despite the rapid development, the tech debt was kept on sustainable levels,
+  so this one-off project is a good foundation for an actual product.
+- However, it became pretty stressful to effectively defend the developer team
+  from external scope changes and unnecessary overload, which caused an
+  unresolved disagreement between the (now former) Product Owner and me and
+  made me resign from this team.
+- _Keywords_: Clean architecture, Architecture design, Java, Python, XML, XSLT,
+  Ubuntu, systemd, V2X
+
 
 `March 2020 - July 2020`
 __Senior Embedded Developer__, Budapest
